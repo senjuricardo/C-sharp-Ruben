@@ -15,23 +15,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "exercicio D, ficha 1", "exe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "exer E, ficha 1", "exer E, ficha 1\exer E, ficha 1.csproj", "{FAD052EB-1798-4EE1-A6D2-C2072BA1BA73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "o verdadeiro E", "o verdadeiro E\o verdadeiro E.csproj", "{FCE4011C-A26F-40EC-A242-FC8F226B620E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "o verdadeiro E", "o verdadeiro E\o verdadeiro E.csproj", "{FCE4011C-A26F-40EC-A242-FC8F226B620E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exer F, pl1", "exer F, pl1\exer F, pl1.csproj", "{51BBB89E-B0D6-4A44-BEF1-612F212390DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "exer F, pl1", "exer F, pl1\exer F, pl1.csproj", "{51BBB89E-B0D6-4A44-BEF1-612F212390DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exer g- fich1", "exer g- fich1\exer g- fich1.csproj", "{8D80709F-70F5-4790-ACD8-EDC434EF8E44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "exer g- fich1", "exer g- fich1\exer g- fich1.csproj", "{8D80709F-70F5-4790-ACD8-EDC434EF8E44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exer H , pl1", "exer H , pl1\exer H , pl1.csproj", "{93C7CAD5-B3D9-4F9A-860A-D3F5B54E5EE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "exer H , pl1", "exer H , pl1\exer H , pl1.csproj", "{93C7CAD5-B3D9-4F9A-860A-D3F5B54E5EE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exer I, pl1", "exer I, pl1\exer I, pl1.csproj", "{9B3437DE-31A9-435A-ADC6-FADE6BD76CFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "exer I, pl1", "exer I, pl1\exer I, pl1.csproj", "{9B3437DE-31A9-435A-ADC6-FADE6BD76CFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exer J- pl1", "Exer J- pl1\Exer J- pl1.csproj", "{7662ED7E-15FD-44FF-AB3C-91D27A64A8D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exer J- pl1", "Exer J- pl1\Exer J- pl1.csproj", "{7662ED7E-15FD-44FF-AB3C-91D27A64A8D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exer k - pl1", "exer k - pl1\exer k - pl1.csproj", "{0E9ABC5D-9AD3-4B01-8C12-26B549E4FF39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "exer k - pl1", "exer k - pl1\exer k - pl1.csproj", "{0E9ABC5D-9AD3-4B01-8C12-26B549E4FF39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exer L, pl1", "exer m, pl1\exer L, pl1.csproj", "{C73E0B1F-4496-407E-B527-D883257A37CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "exer L, pl1", "exer m, pl1\exer L, pl1.csproj", "{C73E0B1F-4496-407E-B527-D883257A37CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exer m, pl1", "exer m, pl1\exer m, pl1.csproj", "{F0DB714B-31EC-4C68-A4B0-77DBE0C25A86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "exer m, pl1", "exer m, pl1\exer m, pl1.csproj", "{F0DB714B-31EC-4C68-A4B0-77DBE0C25A86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exer1-pl2", "exer1-pl2\exer1-pl2.csproj", "{77BA84E5-1DB2-4146-B6D1-F734675A0B44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exer 1, opcaço2. pl2", "exer 2. pl2\exer 1, opcaço2. pl2.csproj", "{A2A02E61-59EA-46E7-BD85-1DF7BF0DBF68}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -223,6 +227,30 @@ Global
 		{F0DB714B-31EC-4C68-A4B0-77DBE0C25A86}.Release|x64.Build.0 = Release|Any CPU
 		{F0DB714B-31EC-4C68-A4B0-77DBE0C25A86}.Release|x86.ActiveCfg = Release|Any CPU
 		{F0DB714B-31EC-4C68-A4B0-77DBE0C25A86}.Release|x86.Build.0 = Release|Any CPU
+		{77BA84E5-1DB2-4146-B6D1-F734675A0B44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77BA84E5-1DB2-4146-B6D1-F734675A0B44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77BA84E5-1DB2-4146-B6D1-F734675A0B44}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{77BA84E5-1DB2-4146-B6D1-F734675A0B44}.Debug|x64.Build.0 = Debug|Any CPU
+		{77BA84E5-1DB2-4146-B6D1-F734675A0B44}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{77BA84E5-1DB2-4146-B6D1-F734675A0B44}.Debug|x86.Build.0 = Debug|Any CPU
+		{77BA84E5-1DB2-4146-B6D1-F734675A0B44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77BA84E5-1DB2-4146-B6D1-F734675A0B44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77BA84E5-1DB2-4146-B6D1-F734675A0B44}.Release|x64.ActiveCfg = Release|Any CPU
+		{77BA84E5-1DB2-4146-B6D1-F734675A0B44}.Release|x64.Build.0 = Release|Any CPU
+		{77BA84E5-1DB2-4146-B6D1-F734675A0B44}.Release|x86.ActiveCfg = Release|Any CPU
+		{77BA84E5-1DB2-4146-B6D1-F734675A0B44}.Release|x86.Build.0 = Release|Any CPU
+		{A2A02E61-59EA-46E7-BD85-1DF7BF0DBF68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A02E61-59EA-46E7-BD85-1DF7BF0DBF68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A02E61-59EA-46E7-BD85-1DF7BF0DBF68}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A2A02E61-59EA-46E7-BD85-1DF7BF0DBF68}.Debug|x64.Build.0 = Debug|Any CPU
+		{A2A02E61-59EA-46E7-BD85-1DF7BF0DBF68}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A2A02E61-59EA-46E7-BD85-1DF7BF0DBF68}.Debug|x86.Build.0 = Debug|Any CPU
+		{A2A02E61-59EA-46E7-BD85-1DF7BF0DBF68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A02E61-59EA-46E7-BD85-1DF7BF0DBF68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2A02E61-59EA-46E7-BD85-1DF7BF0DBF68}.Release|x64.ActiveCfg = Release|Any CPU
+		{A2A02E61-59EA-46E7-BD85-1DF7BF0DBF68}.Release|x64.Build.0 = Release|Any CPU
+		{A2A02E61-59EA-46E7-BD85-1DF7BF0DBF68}.Release|x86.ActiveCfg = Release|Any CPU
+		{A2A02E61-59EA-46E7-BD85-1DF7BF0DBF68}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
